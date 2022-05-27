@@ -1,0 +1,291 @@
+.body{
+    position: fixed;
+    margin: 0 auto;
+    width: 90%;
+}
+
+
+.logo {
+    display: flex;
+    height: 180px;
+    padding-top: 33px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.head{
+    display: flex;
+    margin: 0 auto;
+    width:  90%;
+}
+
+.header_menu{
+    display: flex;
+    flex-flow:  row nowrap;
+    width: 703px;
+    height: 57px;
+    align-items: center;
+    padding-right: 10%;
+    padding-top: 5%;
+}
+
+.skateboard {
+    display: flex;
+    width: 800px;
+    height: 57px;
+    left: 453px;
+    top: 118px;
+
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+
+.scooters{
+    display: flex;
+    width: 600px;
+    height: 57px;
+    right: 800px;
+    top: 118px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.accessories {
+    display: flex;
+    width: 800px;
+    height: 57px;
+    left: 453px;
+    top: 118px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.contacts{
+    display: flex;
+    width: 703px;
+    height: 57px;
+    left: 453px;
+    top: 118px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.us{
+    margin-top: -63%;
+    margin-left: 35%;
+}
+
+.clear{
+
+    width: 36px;
+    height: 36px;
+    padding-left: 29%;
+    margin-top: -53%;
+
+
+}
+
+.econs{
+    display: flex;
+    flex-flow: row nowrap;
+    padding-right: 10%;
+}
+
+.ellipse{
+    padding-left: -100%;
+    padding-top: 20%;
+}
+
+.box{
+    position: absolute;
+    width: 1084px;
+    height: 796px;
+    left: 786px;
+    top: 0px;
+
+
+
+    background: linear-gradient(234.66deg, #EB2929 16.1%, rgba(234, 131, 131, 0) 90.05%);
+
+}
+
+.menu{
+    display: flex;
+    flex-flow: column-reverse;
+    padding-top: 200px;
+
+}
+
+.menu_next{
+    display: flex;
+    margin: 0 auto;
+    width:  90%;
+    padding-top: 50px;
+}
+
+.price{
+    display: flex;
+    width: 160px;
+    height: 40px;
+    padding-right: 137px;
+    padding-top: 60px;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+.button{
+    display: flex;
+    padding-top: 65px;
+    padding-left: 52px;
+
+}
+
+p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.buy{
+    width: 300px;
+    height: 70px;
+    left: 349px;
+
+    background: linear-gradient(46.81deg, #EB2929 10.74%, rgba(234, 131, 131, 0) 92.76%);
+    border-radius: 30px;
+}
+
+.max{
+    display: flex;
+    padding-top: 77px;
+}
+
+.cm{
+    width: 400px;
+    height: 100px;
+    left: 151px;
+
+    background: #FBF2F2;
+    border: 1px solid #000000;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+
+.footer{
+    display: flex;
+    margin: 0 auto;
+    width: 90%;
+    padding-top: 50px;
+}
+
+.arrow{
+    padding-top: 100px;
+    padding-left: 15px;
+
+}
+
+.arrow_l{
+    padding-top: 100px;
+    padding-right: 25px;
+}
+
+.moto{
+    display: flex;
+    width: 704px;
+    height: 400px;
+    top: 268px;
+}
+
+.pg{
+    width: 704px;
+    height: 574px;
+    padding-right: 70px;
+    padding-top: 268px;
+}
+.menu_moto{
+    display: flex;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.bold{
+    display: flex;
+    height: 76px;
+    margin-right: 100px;
+    top: 455px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #515050;
+}
+
+.wels{
+    display: flex;
+    width: 900px;
+    height: 200px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 90px;
+
+    color: #000000;
+}
+
+.st{
+    height: 61px;
+    left: 100px;
+    top: 752px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+
+
+
+
+
+
+
+
